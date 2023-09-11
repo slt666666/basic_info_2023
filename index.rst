@@ -1,20 +1,67 @@
-.. basic-informatics-lecture-2023 documentation master file, created by
-   sphinx-quickstart on Mon Sep 11 15:34:19 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+情報基礎演習[農学部]講義資料 (担当教員: 堺　俊之)
+================================================================
 
-Welcome to basic-informatics-lecture-2023's documentation!
-==========================================================
+News
+^^^^
+* 2022/10/01: 講義資料Ver 1.0を公開（2022年度版）
+
+本講義資料について
+^^^^^^^^^^^^^^^^^^^^^
+
+本ページは 京都大学の全学共通科目 **情報基礎演習[農学部]のオンライン講義資料（以下本資料）** です.
+講義におけるWord/Excel/PowerPointの演習およびRを用いたプログラミング演習の講義資料を載せています．
+
+他の教員が担当する情報基礎演習[農学部]とは内容が異なる可能性があるので注意してください。
+
+Rのプログラミング演習の章はGoogle Colaboratoryというサービスを用いて執筆し、
+Jupyter notebook (iPython notebook)の形式（.ipynb）で配布予定です。
+(このあたりは現在考案中です。)
+
+本資料はコースの受講者以外も誰でも自由に無料で使うことができます．
+
+想定受講者
+^^^^^^^^^^
+
+受講想定者として学部1回生、パソコンを(主に)大学から使用し始め、プログラミング等は未経験である者を想定しています．
+
+資料もくじ
+^^^^^^^^^^
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :numbered:
+
+   word_1
+   word_1_mac
+   word_2
+   excel_1
+   excel_2
+   excel_3
+   powerpoint_1
+   powerpoint_2
+   programming
+   R_1
+
+講義の進行に応じて随時ページを追加していきます。
+
+推奨ブラウザ環境
+^^^^^^^^^^^^^^^^^
+
+* 主要なブラウザはサポートしています．特にRの演習で使用予定のGoogle Colaboratory はPC 版のChromeとFirefoxでは完全に動作するよう検証されています．
+
+本資料の作成者
+^^^^^^^^^^^^^^
+本資料は京都大学 `栽培植物起原学研究室 <http://www.crop-evolution.kais.kyoto-u.ac.jp/>`_ 堺　俊之によって作成されました。
+
+問い合わせ先
+^^^^^^^^^^^^^^
+本資料についての質問、不具合の報告などについては以下のメールアドレスまでお願いします。
+
+sakai.toshiyuki.3wあっとまーくkyoto-u.ac.jpまで。
 
 
-
-Indices and tables
+索引と検索
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
