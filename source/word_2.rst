@@ -19,7 +19,7 @@
 
 | Word には、アウトラインモードというのが組込まれており、この様な論理構造を明確にすることが出来ます。
 | 表示タブにアウトラインというボタンがあると思うので、そこをクリックすると以下のような形でアウトラインモードになります。
-| `このサンプルWordファイル <_static/documents/word/spractice4.docx>`_ を使ってやってみましょう。
+| `このサンプルWordファイル <_static/documents/word/practice4.docx>`_ を使ってやってみましょう。
 
 .. figure:: _static/images/word/outline.png
 
