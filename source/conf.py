@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = '情報基礎演習[農学部]'
-copyright = '2022, Toshiyuki Sakai'
+copyright = '2023, Toshiyuki Sakai'
 author = 'Toshiyuki Sakai'
 
 # The full version, including alpha/beta/rc tags
-release = '2022_10_01'
+release = '2023_10_01'
 
 
 # -- General configuration ---------------------------------------------------
