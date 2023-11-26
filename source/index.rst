@@ -34,6 +34,9 @@ Jupyter notebook (iPython notebook)の形式（.ipynb）で配布予定です。
    word_1
    word_1_mac
    word_2
+   excel_1
+   excel_2
+   excel_3
 
 講義の進行に応じて随時ページを追加していきます。
 
