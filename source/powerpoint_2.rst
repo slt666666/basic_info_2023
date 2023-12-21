@@ -194,6 +194,8 @@ Mac                                       英語                                
 * いらすとや https://www.irasutoya.com/ (検索にコツがいる気がします)
 * Emojipedia https://emojipedia.org/ (文字なのでフリー素材)
 
+* Biorender https://www.biorender.com/ (生物学で必要なイラストサービス、無料版でも最低限使える)
+
 | イラストは画像とは違って、色の編集や加工がしやすいです。
 | またイラストを図形として扱うことで、パーツに分解出来たり画像の接合・切り出し処理が行えるようになります。
 
