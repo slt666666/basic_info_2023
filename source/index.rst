@@ -39,6 +39,8 @@ Jupyter notebook (iPython notebook)の形式（.ipynb）で配布予定です。
    excel_3
    powerpoint_1
    powerpoint_2
+   programming
+   R_1
 
 講義の進行に応じて随時ページを追加していきます。
 
