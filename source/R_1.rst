@@ -15,4 +15,4 @@
 Rの基礎的な機能について紹介します。
 
 .. image:: _static/images/programming/colab-badge.svg
-   :target: https://colab.research.google.com/github/slt666666/basic_informatics_2022/blob/master/source/_static/colab_notebook/RL02.ipynb
+   :target: https://colab.research.google.com/github/slt666666/basic_informatics_2023/blob/master/source/_static/colab_notebook/RL02.ipynb
