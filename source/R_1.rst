@@ -16,3 +16,10 @@ Rの基礎的な機能について紹介します。
 
 .. image:: _static/images/programming/colab-badge.svg
    :target: https://colab.research.google.com/github/slt666666/basic_info_2023/blob/master/source/_static/colab_notebook/RL02.ipynb
+
+**3. Rの基礎その2**
+
+Rでのデータを読み込み方、データフレームの扱い、基本的なグラフの描写、パッケージについて紹介します。
+
+.. image:: _static/images/programming/colab-badge.svg
+   :target: https://colab.research.google.com/github/slt666666/basic_info_2023/blob/master/source/_static/colab_notebook/RL03.ipynb
